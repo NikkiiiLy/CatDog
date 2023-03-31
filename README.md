@@ -1,2 +1,1 @@
-# CatDog
-CatDog - CSS and Bootstrap Project
+TinDog Starting Files
